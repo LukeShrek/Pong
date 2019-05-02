@@ -1,0 +1,172 @@
+﻿  gamemenu.cpp
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(49): warning C4244: '=': conversion from 'sf::Int64' to 'float', possible loss of data
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(102): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(67): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(73): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(78): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(86): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(91): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(98): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(103): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\gamemenu.cpp(110): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+  main.cpp
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(86): warning C4244: '=': conversion from 'sf::Int64' to 'float', possible loss of data
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(112): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(113): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(118): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(124): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(125): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(31): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(34): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(129): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+h:\documents\vs projects\c++\pong-sfml-master\code\main.cpp(131): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\documents\vs projects\c++\pong-sfml-master\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+  Generating Code...
+  Pong-SFML-master.vcxproj -> H:\Documents\VS Projects\C++\Pong-SFML-master\Debug\Pong-SFML-master.exe
